@@ -1,0 +1,11 @@
+staff_id,first_name,active,extract_time,source_name
+1,Fabiola,1,2024-04-30 23:48:24.778703,/home/malak/bikestore_dim/staff/staffs.csv
+2,Mireya,1,2024-04-30 23:48:24.778703,/home/malak/bikestore_dim/staff/staffs.csv
+3,Genna,1,2024-04-30 23:48:24.778703,/home/malak/bikestore_dim/staff/staffs.csv
+4,Virgie,1,2024-04-30 23:48:24.778703,/home/malak/bikestore_dim/staff/staffs.csv
+5,Jannette,1,2024-04-30 23:48:24.778703,/home/malak/bikestore_dim/staff/staffs.csv
+6,Marcelene,1,2024-04-30 23:48:24.778703,/home/malak/bikestore_dim/staff/staffs.csv
+7,Venita,1,2024-04-30 23:48:24.778703,/home/malak/bikestore_dim/staff/staffs.csv
+8,Kali,1,2024-04-30 23:48:24.778703,/home/malak/bikestore_dim/staff/staffs.csv
+9,Layla,1,2024-04-30 23:48:24.778703,/home/malak/bikestore_dim/staff/staffs.csv
+10,Bernardine,1,2024-04-30 23:48:24.778703,/home/malak/bikestore_dim/staff/staffs.csv

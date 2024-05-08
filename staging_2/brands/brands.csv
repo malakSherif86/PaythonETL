@@ -1,0 +1,10 @@
+brand_id,brand_name,extract_time,source_name
+1,Electra,2024-04-30 23:48:32.824615,/home/malak/bikestore_dim/brands/brands.csv
+2,Haro,2024-04-30 23:48:32.824615,/home/malak/bikestore_dim/brands/brands.csv
+3,Heller,2024-04-30 23:48:32.824615,/home/malak/bikestore_dim/brands/brands.csv
+4,Pure Cycles,2024-04-30 23:48:32.824615,/home/malak/bikestore_dim/brands/brands.csv
+5,Ritchey,2024-04-30 23:48:32.824615,/home/malak/bikestore_dim/brands/brands.csv
+6,Strider,2024-04-30 23:48:32.824615,/home/malak/bikestore_dim/brands/brands.csv
+7,Sun Bicycles,2024-04-30 23:48:32.824615,/home/malak/bikestore_dim/brands/brands.csv
+8,Surly,2024-04-30 23:48:32.824615,/home/malak/bikestore_dim/brands/brands.csv
+9,Trek,2024-04-30 23:48:32.824615,/home/malak/bikestore_dim/brands/brands.csv
